@@ -1,5 +1,5 @@
 title: Cloudhost Status
-languageCode: es
+languageCode: es-es
 params:
   shortDateFormat: '15:04 — Jan 2'
   meta_description: >-
@@ -18,7 +18,7 @@ params:
   dateFormat: 'January 2, 2006 at 15:04'
   disqusShortname: null
   timezoneString: ' UTC-3'
-  logo: 'https://status.cloudhostla.com.ar/39e114dd-e384-460b-8a57-7100c367b942'
+  logo: images/cloudhost-logo-retina.png
   description_header: >-
     Esta es la página de estado de <a class='text-grey-darkest' title='Visita
     Cloudhost' href='https://www.cloudhostla.com.ar/'>Cloudhost</a>.<br />aquí
