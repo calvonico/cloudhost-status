@@ -21,7 +21,7 @@ params:
   logo: static/images/uploads/cloudhost-logo.png
   description_header: >-
     Esta es la página de estado de <a class='text-grey-darkest' title='Visita
-    Cloudhost' href='https://www.cloudhostla.com.ar/'>Cloudhost</a>.<br />aquí
+    Cloudhost' href='https://www.cloudhostla.com.ar/'>Cloudhost</a>.<br />Aquí
     encuentras el estado actual e histórico de incidentes.
   copyrightHolder: Cloudhost by Nico Calvo
   eventsPerPage: 10
