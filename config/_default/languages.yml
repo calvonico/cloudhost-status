@@ -16,9 +16,9 @@
 ############################################################
 
 #
-#en:
-#  weight: 1
-#  languageName: English
+en:
+  weight: 1
+  languageName: English
 #fr:
 #  title: Etat de nos systèmes
 #  weight: 2
@@ -36,7 +36,7 @@
 #
 es:
   title: Nuestra página de estado
-  weight: 1
+  weight: 3
   contentDir: content/es
   languageCode: es
   languageName: Español
