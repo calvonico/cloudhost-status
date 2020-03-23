@@ -23,16 +23,10 @@ params:
     Esta es la página de estado de <a class='text-grey-darkest' title='Visita
     Cloudhost' href='https://www.cloudhostla.com.ar/'>Cloudhost</a>.<br />aquí
     encuentras el estado actual e histórico de incidentes.<br/>
-
-    ¿No está de acuerdo con lo reportado aquí? escribanos a
-    soporte@cloudhostla.com.ar.
   copyrightHolder: Cloudhost by Nico Calvo
   eventsPerPage: 10
   iconType: image/png
   groups:
     - Servicios principales
   icon: /images/clearstatus.png
-  description_footer: >-
-    <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
-    software for all kind of sectors.
+  description_footer: ''
