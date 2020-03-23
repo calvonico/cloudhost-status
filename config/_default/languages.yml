@@ -36,7 +36,7 @@
 #
 es:
   title: Nuestra página de estado
-  weight: 3
+  weight: 1
   contentDir: content/es
   languageCode: es
   languageName: Español
