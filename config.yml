@@ -18,8 +18,7 @@ params:
   dateFormat: 'January 2, 2006 at 15:04'
   disqusShortname: null
   timezoneString: ' UTC-3'
-  logo: >-
-    https://cloudhostla.com.ar/wp-content/uploads/2020/03/cloudhost-logo-retina-blanco.png
+  logo: 'https://status.cloudhostla.com.ar/39e114dd-e384-460b-8a57-7100c367b942'
   description_header: >-
     Esta es la página de estado de <a class='text-grey-darkest' title='Visita
     Cloudhost' href='https://www.cloudhostla.com.ar/'>Cloudhost</a>.<br />aquí
