@@ -9,7 +9,7 @@
 buildFuture: true
 
 defaultContentLanguage: "es"
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 # the folder where your issues will be stored.
 contentDir: "content/default"
