@@ -18,7 +18,7 @@ params:
   dateFormat: 'January 2, 2006 at 15:04'
   disqusShortname: null
   timezoneString: ' UTC-3'
-  logo: images/cloudhost-logo-retina.png
+  logo: static/images/uploads/cloudhost-logo.png
   description_header: >-
     Esta es la página de estado de <a class='text-grey-darkest' title='Visita
     Cloudhost' href='https://www.cloudhostla.com.ar/'>Cloudhost</a>.<br />aquí
