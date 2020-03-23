@@ -34,9 +34,9 @@
 #        description: Notre site de support
 #        link: https://support.example.fr/
 #
-#es:
-#  title: Nuestra página de estado
-#  weight: 3
-#  contentDir: content/es
-#  languageCode: es
-#  languageName: Español
+es:
+  title: Nuestra página de estado
+  weight: 3
+  contentDir: content/es
+  languageCode: es
+  languageName: Español
