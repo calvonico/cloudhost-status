@@ -16,9 +16,9 @@
 ############################################################
 
 #
-#en:
-#  weight: 1
-#  languageName: English
+en:
+  weight: 1
+  languageName: English
 #fr:
 #  title: Etat de nos systèmes
 #  weight: 2
